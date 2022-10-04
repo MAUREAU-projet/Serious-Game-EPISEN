@@ -1,2 +1,2 @@
 # Serious-Game-EPISEN
-Game of life
+Game of life ou épidémiologie simulation 
